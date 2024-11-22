@@ -15,9 +15,6 @@ BASE_PACKAGES=(
 	playerctl
 	pamixer
 	pavucontrol
-	bluez
-	bluez-utils
-	blueman
 )
 
 
